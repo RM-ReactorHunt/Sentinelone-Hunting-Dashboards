@@ -10,6 +10,8 @@ Maintained by [RM-ReactorHunt](https://github.com/RM-ReactorHunt). Original deve
 
 This is an independent community contribution. Publication here does not indicate SentinelOne acceptance, certification, or official product support.
 
+![SentinelOne Threat Hunting Dashboards — Monitoring and Hardening](assets/sentinelone-dashboard.png)
+
 ## Dashboard catalog
 
 | Dashboard | Analyst objective | Tabs | Panels | Query panels |
@@ -65,3 +67,4 @@ Open an issue with the dashboard name, console version, affected panel, sanitize
 ## License and attribution
 
 Released under [GNU AGPL-3.0](LICENSE), with the contributor's authorization to publish these exports under that license. Preserve the NeverOff development attribution. Product and framework names belong to their respective owners.
+
